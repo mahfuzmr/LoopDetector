@@ -9,3 +9,7 @@ Our algorithms can count the loops in any given dataset that is in triplet forma
 
 # Dataset AIDA
 This repository contains dataset AIDA in a different format(csv,nt,txt) that we used in our algorithm. train,test and validation data is formatted as text. To use AIDA unzip 177743_W_A.zip. 177743_W_A.zip Contains train,test and validation.
+
+# Dataset FB15k, Nations, WN , UMLS
+Following forked repository contains all other datasets that we used in the comerison with AIDA 
+Link -> https://github.com/mahfuzmr/datasets_knowledge_embedding
