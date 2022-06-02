@@ -8,5 +8,4 @@ Our algorithms can count the loops in any given dataset that is in triplet forma
 6) giving the shape and count as output. 
 
 # Dataset AIDA
-Repository contains dataset AIDA in different format(csv,nt,txt) that we used in our algorithm.
-train,test and validation data is formatted as text. To use AIDA unzip 177743_W_A.zip. 177743_W_A.zip Contains train,test and validation.
+This repository contains dataset AIDA in a different format(csv,nt,txt) that we used in our algorithm. train,test and validation data is formatted as text. To use AIDA unzip 177743_W_A.zip. 177743_W_A.zip Contains train,test and validation.
